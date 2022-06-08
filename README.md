@@ -2,8 +2,7 @@
 
 <h2>Screens: </h2>
 
-<img src="images/1st.png" height="350px"/><img src="images/2nd.png" height="350px"/>
-
+<p align="center"><img src="images/1st.png" height="350px"/>&nbsp;<img src="images/2nd.png" height="350px"/></p>
 
 <h2>Usage: </h2>
 
